@@ -1,14 +1,14 @@
 ---
-title: "HTML & CSS"
+title: "CSS"
 status: "complete"
 order: 3
 ---
 
-# HTML & CSS · Course Notes
+# CSS · Course Notes
 
-#### The ultimate guide to *HTML & CSS* 🔥
+#### The ultimate guide to *CSS* 🔥
 
-HTML & CSS are the backbone of the internet, and almost every website out there can be boiled down into some unique mutation of the two. While relatively simple to learn, together they can really pack a powerful punch.
+CSS are the backbone of the internet, and almost every website out there can be boiled down into some unique mutation of the two. While relatively simple to learn, together they can really pack a powerful punch.
 
 They're also the perfect entry point for any new or beginner developer to start learning and get their hands dirty. Master these, and you'll have the ultimate foundation for your programming journey.
 
@@ -25,15 +25,6 @@ Here are some links you might find helpful!
 
 ## Table of Contents
 
-  - [Chapter 1 - Introduction to HTML](#chapter-1---introduction-to-html)
-    - [1.1 Creating an HTML Document](#11-creating-an-html-document)
-    - [1.2 Initializing an HTML Document](#12-initializing-an-html-document)
-    - [1.3 HTML Tags](#13-html-tags)
-    - [1.4 HTML Tag Functionalities](#14-html-tag-functionalities)
-    - [1.5 Code Commenting in HTML](#15-code-commenting-in-html)
-    - [1.6 HTML Tag Attributes](#16-html-tag-attributes)
-    - [1.7 A Basic Singlepage Website](#17-a-basic-singlepage-website)
-    - [1.8 Building Multipage Applications](#18-building-multipage-applications)
   - [Chapter 2 - Introduction to CSS](#chapter-2---introduction-to-css)
     - [2.1 Creating an CSS File](#21-creating-an-css-file)
     - [2.2 Importing our CSS File](#22-importing-our-css-file)
