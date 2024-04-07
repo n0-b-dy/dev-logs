@@ -34,13 +34,6 @@ Here are some links you might find helpful!
     - [1.6 HTML Tag Attributes](#16-html-tag-attributes)
     - [1.7 A Basic Singlepage Website](#17-a-basic-singlepage-website)
     - [1.8 Building Multipage Applications](#18-building-multipage-applications)
-  - [Chapter 2 - Introduction to CSS](#chapter-2---introduction-to-css)
-    - [2.1 Creating an CSS File](#21-creating-an-css-file)
-    - [2.2 Importing our CSS File](#22-importing-our-css-file)
-    - [2.3 Styling our HTML Document](#23-styling-our-html-document)
-    - [2.4 CSS Styles](#24-css-styles)
-    - [2.5 Advanced CSS Selectors](#25-advanced-css-selectors)
-    - [2.6 TailwindCSS](#26-tailwindcss)
 
 ## Chapter 1 - Introduction to HTML
 
