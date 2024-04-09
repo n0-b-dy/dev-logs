@@ -4,6 +4,19 @@ So to start
 
 so in my words 90 **viewport height** takes up 90% of the viewable screen.
 
+## Percentages vs Pixels
+
+*Pixels* can cover certain amount the the available screen or *viewport*. But they may take longer to calculate. Whereas, Percentages may be easier to estimate because they take up a larger portion faster. For example, 50% of the width of the screen would take up more and be faster and easier to estimate i your head versus pixels. I think percentages are dynamic, which means they automatically stretch and shrink dependant on the viewport (vh). Pixels stay fixed on the screen, so they literally go off the edge and are more difficult to estimate.
+
+A little nugget of extremly helpful info came from reddit about when to use a spcific unit measurement. This came from n9iels on reddit, 
+
+> *"Pixels are fixed and percentage are (mostly) relevant to the parent element. I would use pixels only if it always needs to be that size. So for example breakpoints. But there is much more than pixel and percentages these days :)*
+I personally like to use rem whenever possible. This makes it relative to the font-size of the body. So if the font-size is 16px then 2rem will be 32px. This is nice because when someone sets a custom font size it always looks good."
+
+> *"The goal is to become familiar with the material and understand it, not to memorize it. All great developers have reference material they regularly refer to" :)* -Smoljames on YouTube
+
+
+
 also to create a **border** i would just type border then a certain px to show how thick or thin i ant the line 
 (smaller is thinner, bigger is thicker)
 
