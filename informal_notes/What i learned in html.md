@@ -159,6 +159,61 @@ It should be used with css for proer styling.
 <p>fire emoji: &#x1F525;</p>
 theres also deciamls for emoji's but i chose hex code
 
+## HTML Images
+
+### Image Maps
+
+<map> tag is used on images to create clickable areas <area> on a image. You can put one or more area tags.
+
+
+## HTML Bookmarks
+
+you create bookmarks to click and jump to certain sections the webpage or document. i.e. "Jump to chapter 4" You do this by creating id's within the header tags or whatever p tags you want to jump to. Then you add a link within the same page (locally) or you can insert an external link. Dont forget to use the hashtag id within the link.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Form
 
 <form></form>

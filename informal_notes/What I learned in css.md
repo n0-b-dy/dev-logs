@@ -4,6 +4,8 @@ So to start
 
 so in my words 90 **viewport height** takes up 90% of the viewable screen.
 
+
+
 ## Percentages vs Pixels
 
 *Pixels* can cover certain amount the the available screen or *viewport*. But they may take longer to calculate. Whereas, Percentages may be easier to estimate because they take up a larger portion faster. For example, 50% of the width of the screen would take up more and be faster and easier to estimate i your head versus pixels. I think percentages are dynamic, which means they automatically stretch and shrink dependant on the viewport (vh). Pixels stay fixed on the screen, so they literally go off the edge and are more difficult to estimate.
@@ -18,10 +20,16 @@ I personally like to use rem whenever possible. This makes it relative to the fo
 
 
 also to create a **border** i would just type border then a certain px to show how thick or thin i ant the line 
-(smaller is thinner, bigger is thicker)
+(smaller is thinner, bigger is thicker). 
+
+Pro-tip you can create a div and class by just typing ".insert_class_name_here" in the html file.
 
 To make the **contents** or **"elements"** of a container or class move horizontally on the page with less coding 
 flex can help with that.
+
+## Float vs. Flex-box
+
+float is an old way to position boxes on the page and is more complex. Enter flex-box. Flex-box is the newer way of moving boxes and is faster and esier than the former.
 
 by default the **flex-direction** is set to row which make my content appear horizontally across 
 the page.
@@ -89,7 +97,14 @@ element in your css file you would use the hashtag followed by the element. (ex:
 Similarly, yoiu can taarget a group of elements using a CLASS attribute (ex: 'class=""'). Now to target an element by class
 it is similar to id's, but instead of hashtags you would use periods '.' (ex: '.odd')
 
-FONTS
+### FONTS
+If you set a font family in the body it will ensure that every child element is the same font for every piece of text, UNLESS you specify in a class. 
+
+The class ALWAYS takes place over the class selector but if you use an id as a selector then that take prioority over the class.
+
+Priority system is the id, class, tag, and lastly parents.
+
+
 FONT-FAMILY changes the fonts on the page. the most commonly used is sans-serif. It's good practice to use two 
 fonts because some web browser's may not support one then they will use  another. Think of them like contingencies.
 
@@ -201,6 +216,8 @@ background-size: cover;
 Now the image will resize dyanmically.
 
 Margin is the space outside the Border
+
+when using margin something helpful to know would be the first number is the x-axis or vertcial spacing (google homepage) and the y-axis is horizontal.
 
 Padding is the space between the border and the content inside the border.
 
