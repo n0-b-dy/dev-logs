@@ -9,3 +9,7 @@
 #### 04-10-2024.
 
 -I  have been learning alot on this journey, while still being confused with CSS and some doubt but persistence is key and I am farther now than I was a couple months ago. So I am progressing. Thank you for coming to my Ted Talk.
+
+#### 04-11-2024.
+
+-I have been consistenly progressing in my code and while still frustrated with the slow pace sometimes I can say I am frequently thinking about finishing my projects, thinking about code, and wanting to finally make a project on my own. They did say it's a journey, not a race, afterall. Well, I should be able to get my project up and running tonight on netlify, so better get to it then.
