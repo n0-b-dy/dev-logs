@@ -21,6 +21,12 @@
 -Alrighty, where to begin. Firstly, I am feeling overwhelmed when watching YouTube tutorials but i know thats all apart of the game and I need to overcome it somehow. I woke up feeling like it is all so much to remember but then when I am in the project looking at the code it does become familiar again. This feeling is strange.. Some things I think I should brush up on are some terms I am not familiar with and will study those tonight. You know what really helped me was looking at what one term means at a time on youtube. Like a visual guide that some videos provide. I did not understand margin and padding but when I looked up a video it really helped visually. After, I should really jump into Javascript in the next couple of days.
 
 
-#### 04-13-2024.
+#### 04-14-2024.
 
 - Today I've been learning about JavaScript. I've learned pretty much the basics like variables, functions, arrays and much more. The problem with my current roadmap is that It just shows me the basics and not a lot of how to apply them in a project but there are other sources like w3 and bro code so I think I may go with those for further help.
+
+#### 04-15-2024.
+
+- I may have deviated from the roadmap a little. I seen a  tiktok video about using openai api key that interacts with a projector and other iot devices to create an ironman 'holomat' as it is dubbed by its creator. Unfortunately, it is locked behind a paywall. But it is used with python code, so cant be that hard, right? 
+
+- Anyway, I will get back onto my javascript code and will finish the video and be looking on FCC and w3 for further explanations on topics I do not uncerstand.
