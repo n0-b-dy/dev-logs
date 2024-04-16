@@ -27,7 +27,7 @@
 
 #### 04-15-2024.
 
-- I may have deviated from the roadmap a little. I seen a  tiktok video about using openai api key that interacts with a projector and other iot devices to create an ironman 'holomat' as it is dubbed by its creator. Unfortunately, it is locked behind a paywall. But it is used with python code, so cant be that hard, right? 
+- I may have deviated from the roadmap a little. I seen a  tiktok video about using openai that interacts with a projector and other iot devices to create an ironman 'holomat' as it is dubbed by its creator. Unfortunately, it is locked behind a paywall. But it is used with python code, so cant be that hard, right? 
 
 - Anyway, I will get back onto my javascript code and will finish the video and be looking on FCC and w3 for further explanations on topics I do not uncerstand.
 
