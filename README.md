@@ -30,3 +30,13 @@
 - I may have deviated from the roadmap a little. I seen a  tiktok video about using openai api key that interacts with a projector and other iot devices to create an ironman 'holomat' as it is dubbed by its creator. Unfortunately, it is locked behind a paywall. But it is used with python code, so cant be that hard, right? 
 
 - Anyway, I will get back onto my javascript code and will finish the video and be looking on FCC and w3 for further explanations on topics I do not uncerstand.
+
+#### 04-16-2024.
+
+- Today I leanred basic javascript syntax and concepts by watching the smoljames intro video. 
+    - Intro to js and how it works
+    - Js fundamentals like syntax, including variables, data types, and operators.
+    - Control flow through conditional statements and loops.
+    - Basic functions and their use in structuring code.
+
+- Quick side tangent, I dont really feel like I know this though as good as it may sound. So, I will be trying Bro code's video and some w3 to try and understanding through more practical examples and methods. I know it is oonly a video on the introdcution but I have always been not able to understand loops since in college with c++ but I will try harder.
