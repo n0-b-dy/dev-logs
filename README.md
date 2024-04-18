@@ -40,3 +40,7 @@
     - Basic functions and their use in structuring code.
 
 - Quick side tangent, I dont really feel like I know this though as good as it may sound. So, I will be trying Bro code's video and some w3 to try and understanding through more practical examples and methods. I know it is oonly a video on the introdcution but I have always been not able to understand loops since in college with c++ but I will try harder.
+
+#### 04-17-2024.
+
+- Currently learning React right now. And I think I will try to upload my projects from Free Code Camp because I think it shows effort, at least, I jsut will not pin them to show them off because I feel as if it will look kinda disingenuous.
