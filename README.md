@@ -44,3 +44,5 @@
 #### 04-17-2024.
 
 - Currently learning React right now. And I think I will try to upload my projects from Free Code Camp because I think it shows effort, at least, I jsut will not pin them to show them off because I feel as if it will look kinda disingenuous.
+
+- Oh, forgot to add that I will be studying some mini javascript projects to help with memory. Simple but helpful, I hope.Kf
