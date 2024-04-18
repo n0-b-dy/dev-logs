@@ -45,4 +45,8 @@
 
 - Currently learning React right now. And I think I will try to upload my projects from Free Code Camp because I think it shows effort, at least, I jsut will not pin them to show them off because I feel as if it will look kinda disingenuous.
 
-- Oh, forgot to add that I will be studying some mini javascript projects to help with memory. Simple but helpful, I hope.Kf
+- Oh, forgot to add that I will be studying some mini javascript projects to help with memory. Simple but helpful, I hope.
+
+#### 04-18-2024.
+
+- So I posted one of the mini javascript projects to help me get my feet wet with the programming language. I am hoping it will jumpstart my journey by providing my learning into a project style format. The best thing about these mini projects is that they don't take too long and I can know em out in an hour maybe.
