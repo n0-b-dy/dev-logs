@@ -51,7 +51,7 @@
 
 - So I posted one of the mini javascript projects to help me get my feet wet with the programming language. I am hoping it will jumpstart my journey by providing my learning into a project style format. The best thing about these mini projects is that they don't take too long and I can know em out in an hour maybe.
 
-#### 04-18-2024.
+#### 04-19-2024.
 
-- I have been dabbling a bit in python, recently posted mini- project, and Tech with Tim really helped me understand how easy it is. I made another quiz project with internet insults that is really funny but i am hessitant on pushing it because it deals with internet insults like incel and whatnot and i dont know if its controversial or not. I will probably just modify it. That is part of a 9 hour video on easy to advanced python projects.
+- I have been dabbling a bit in python, recently posted mini- project, and Tech with Tim really helped me understand how easy it is. I made another quiz project with internet insults that is really funny but I am hesitant on pushing it because it deals with internet insults like incel and whatnot. I dont know if its controversial or not. I will probably just modify it. That is part of a 9 hour video on easy to advanced python projects.
 - Right now,  I am currently working on a React To Do list and trying to publish it tonight. Slowly working my way through the Roadmap.
