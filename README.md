@@ -55,3 +55,8 @@
 
 - I have been dabbling a bit in python, recently posted mini- project, and Tech with Tim really helped me understand how easy it is. I made another quiz project with internet insults that is really funny but I am hesitant on pushing it because it deals with internet insults like incel and whatnot. I dont know if its controversial or not. I will probably just modify it. That is part of a 9 hour video on easy to advanced python projects.
 - Right now,  I am currently working on a React To Do list and trying to publish it tonight. Slowly working my way through the Roadmap.
+
+#### 04-20-2024.
+
+- So, today have not been able to get much done other than working on the react project as mentioned before. The problem was that I kept running into hiccups with certain parts of the code, and it's a lot to understand. BUT I am getting there. You know I do enjoy the react project that I am working on strangely enough. I don't know what it is about it.
+
