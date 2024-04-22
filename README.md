@@ -60,3 +60,6 @@
 
 - So, today have not been able to get much done other than working on the react project as mentioned before. The problem was that I kept running into hiccups with certain parts of the code, and it's a lot to understand. BUT I am getting there. You know I do enjoy the react project that I am working on strangely enough. I don't know what it is about it.
 
+#### 04-21-2024.
+
+- Today I have published my first React project. This simple project was created using react.js and will create, edit, and delete tasks within a web browser. This app is dauntin to go through but hopefully with constant exposure it wont be so horrifying. I will be adding some fixes soon like tomorrow. Ran through some life hiccups so trying to stay on here as much as possible.
