@@ -63,3 +63,7 @@
 #### 04-21-2024.
 
 - Today I have published my first React project. This simple project was created using react.js and will create, edit, and delete tasks within a web browser. This app is dauntin to go through but hopefully with constant exposure it wont be so horrifying. I will be adding some fixes soon like tomorrow. Ran through some life hiccups so trying to stay on here as much as possible.
+
+#### 04-22-2024.
+
+- Man, this React stuff is a doozy but I am kinda understanding the process a little bit more. The only thing that slows me down is that the app keeps BREAKING!!!! So frustrating. Anyways, imma keep chipping through.
