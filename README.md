@@ -67,3 +67,7 @@
 #### 04-22-2024.
 
 - Man, this React stuff is a doozy but I am kinda understanding the process a little bit more. The only thing that slows me down is that the app keeps BREAKING!!!! So frustrating. Anyways, imma keep chipping through.
+
+#### 04-24-2024.
+
+- So, I finally got the React project working and forgot to update yesterday but all that matters is it WORKS!!! I also completed another mini-python project and uploaded them on here. Gonna keep chipping away now.
