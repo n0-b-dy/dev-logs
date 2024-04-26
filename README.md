@@ -75,3 +75,7 @@
 #### 04-25-2024.
 
 - I will be finishing and adding another python project because I really want to learn python especially for the automation and ai parts as I find that really fascinating. Like I said before it would be really nice to learn all of that ontop of the web development.
+
+#### 04-26-2024.
+
+- Today I am thinking that I will follow-through with some projects I have been thinking about but didn't dawn on me until today. I will complete 21 projects in 21 days. Each day I will complete 1 project and this will allow me to get comfortable with python and slowly introduce to concepts from easy to advanced difficulty. My hopes from this are to understand python through project based learning much like the web development roadmap I will still be completing! I think with this, the roadmap, and school I should be able to prove that I am more than capable of landing a job. Most of all proving to myself that I can and WILL DO IT!!!
