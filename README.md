@@ -71,3 +71,7 @@
 #### 04-24-2024.
 
 - So, I finally got the React project working and forgot to update yesterday but all that matters is it WORKS!!! I also completed another mini-python project and uploaded them on here. Gonna keep chipping away now.
+
+#### 04-25-2024.
+
+- I will be finishing and adding another python project because I really want to learn python especially for the automation and ai parts as I find that really fascinating. Like I said before it would be really nice to learn all of that ontop of the web development.
