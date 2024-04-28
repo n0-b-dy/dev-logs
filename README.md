@@ -79,3 +79,7 @@
 #### 04-26-2024.
 
 - Today I am thinking that I will follow-through with some projects I have been thinking about but didn't dawn on me until today. I will complete 21 projects in 21 days. Each day I will complete 1 project and this will allow me to get comfortable with python and slowly introduce to concepts from easy to advanced difficulty. My hopes from this are to understand python through project based learning much like the web development roadmap I will still be completing! I think with this, the roadmap, and school I should be able to prove that I am more than capable of landing a job. Most of all proving to myself that I can and WILL DO IT!!!
+
+#### 04-27-2024.
+
+- So, after some thinking Web development is great, but if I am to go back to school I might as well get the cert in networking with an employment concentration of cyber security. That should be enough to get me started. I mean that was the end goal. 
