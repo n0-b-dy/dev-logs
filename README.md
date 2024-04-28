@@ -82,4 +82,4 @@
 
 #### 04-27-2024.
 
-- So, after some thinking Web development is great, but if I am to go back to school I might as well get the cert in networking with an employment concentration of cyber security. That should be enough to get me started. I mean that was the end goal. 
+- So, after some thinking Web development is great, but if I am to go back to school I might as well get the cert in networking with an employment concentration of cyber security. That should be enough to get me started. I will continue web development just because of interests but I will slow down and switch gears into python and cybersec.  I mean that was the end goal anyways.
