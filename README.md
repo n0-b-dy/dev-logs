@@ -83,3 +83,8 @@
 #### 04-27-2024.
 
 - So, after some thinking Web development is great, but if I am to go back to school I might as well get the cert in networking with an employment concentration of cyber security. That should be enough to get me started. I will continue web development just because of interests but I will slow down and switch gears into python and cybersec.  I mean that was the end goal anyways.
+
+
+#### 05-3-2024.
+
+- Really have decided what I would liike to do now and it does not include web develpoment but rather more python and networking. Like network admin type level stuff. Although this is a change in my work, my focus is all the same and will continue to be just known as a pivot in this journey. This is why I really enjoy and appreciate tech because I dont really know another industry where you can just pivot into something else so easily. I am really excited for networking because I dont have to study as hard with coding, or feel pressured to be productive when I can study some python in the mean time then learn more about networking and how we stay connected. I will still be uploading python projects too. It really makes it even more enjoyable because I can really study python and learn ai and automation and really excel with that. Thanks smoljames! This is really it for me, I believe. I am more happy and motivated than ever now!
