@@ -92,3 +92,7 @@
 #### 05-4-2024.
 
 - Uploaded a python project in which you chose your own adventure. This adventure is based off of childrens storybooks and asks which way directionally do you want to pursue to make it out alive. Also, is more scarier but I assume we're all adults here. I may add more but for now I think its enough. It is actually really fun and will add another one tommorow.
+
+#### 05-5-2024.
+
+- Today was a minor setback but I will try tonight and tomorrow to begin the medium difficulty projects so by the time I start college again, I will be in better standing than with the C++ course. And I need to fix the adventure game python project to maybe add more options or more interesting scenarios.
