@@ -96,3 +96,6 @@
 #### 05-5-2024.
 
 - Today was a minor setback but I will try tonight and tomorrow to begin the medium difficulty projects so by the time I start college again, I will be in better standing than with the C++ course. And I need to fix the adventure game python project to maybe add more options or more interesting scenarios.
+
+#### 12-7-2024.
+No longer considering the developer route. I have been doing constant reflecting about how I am to continue this journey and it will be in the form of a new path. That new path is called Networking. Throughout my short term semester in school, I took a class that helped reinforce my decisions in this insightful year. That class was College Success and Career Readiness. I have now found a path that I am truly excited to embark upon. This really feels like me. So, for the forseeable future I am now, still contiuing the tech path but will be I.T. focused, in Networking. I think I may start a new log and rename this one. That desicion in pending...
